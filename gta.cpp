@@ -59,6 +59,8 @@ int main(){
         in>>consegne[i].partenza>>consegne[i].arrivo;
     }
 
+
+    in.close();
     
 
 
