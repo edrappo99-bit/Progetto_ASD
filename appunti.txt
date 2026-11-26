@@ -1,0 +1,9 @@
+PROGETTO
+
+
+GTA6
+
+Gli incroci sono dei nodi
+
+I varchi se non sono presenti spezzerebbero la città in due
+
